@@ -16,8 +16,10 @@ pip install -r requirements.txt
 4. PyTorch 1.5
 
 # Run the demo
-
+```markdown
 python main.py
+```
+
 
 ## Arguments
 ```markdown
