@@ -1,7 +1,1 @@
----
-title: "R Notebook"
-author: santaris
-date: 2020-05-29
-output: html_notebook
----
-
+<embed src="https://github.com/stefanosantaris/EGAD/blob/master/docs/Supplementary_for_EGAD.pdf" type="application/pdf" />
