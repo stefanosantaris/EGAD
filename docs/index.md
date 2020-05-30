@@ -13,4 +13,4 @@ In this paper, we collected three real-world datasets of live video streaming ev
 
 
 # Supplementary material
-For further details regarding the performance of our model in terms of RMSE when tuning the hyperparameters can be found [**here**](https://stefanosantaris.github.io/EGAD/supplementary)
+For further details regarding the performance of our model in terms of RMSE when tuning the hyperparameters can be found [**here**](https://github.com/stefanosantaris/EGAD/raw/master/supplementary/supplementary.pdf)
