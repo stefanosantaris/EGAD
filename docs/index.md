@@ -11,6 +11,3 @@ In this paper, we collected three real-world datasets of live video streaming ev
 2. [**LiveStream-6K**](https://researchlab.blob.core.windows.net/publications/2020/CIKM/datasets/LiveStream-6K.zip)
 3. [**LiveStream-16K**](https://researchlab.blob.core.windows.net/publications/2020/CIKM/datasets/LiveStream-16K.zip)
 
-
-# Supplementary material
-For further details regarding the performance of our model in terms of RMSE when tuning the hyperparameters can be found [**here**](https://github.com/stefanosantaris/EGAD/raw/master/supplementary/supplementary.pdf)
